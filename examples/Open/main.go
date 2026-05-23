@@ -18,7 +18,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pkg/browser"
+	"github.com/econron/browser"
 )
 
 func usage() {
